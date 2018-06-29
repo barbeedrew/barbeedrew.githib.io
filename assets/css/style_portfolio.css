@@ -50,10 +50,14 @@ img{
 .Aboutme{
     width: 960px;
     text-align: left;
-    margin: 20px 0px 30px 60px;
+    margin: 0;
     border: 20px;
-    padding:50px;
-    background-color: #dddddd
+    padding:350px;
+    background-color: #dddddd;
+    padding-right: 307px;
+    padding-top: 1px;
+    padding-bottom: 84px;
+
 }
 .about{
     background-color:#ffffff;
@@ -71,5 +75,4 @@ img{
     width: 250px;
     height: 250px;
     border: 0px;
-    margin: auto;
 }
