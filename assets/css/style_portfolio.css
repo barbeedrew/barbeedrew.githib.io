@@ -26,6 +26,9 @@ h1{
     padding: 10px;
     border: 21px;
 }
+h2{
+    color: #4aaaa5
+}
 footer{
     position: fixed;
     left: 0;
@@ -50,4 +53,23 @@ img{
     margin: 20px 0px 30px 60px;
     border: 20px;
     padding:50px;
+    background-color: #dddddd
+}
+.about{
+    background-color:#ffffff;
+    width: 960px;
+    height: 500px;
+    border: 1px;
+    overflow: visible;
+}
+.box1,
+.box2,
+.box3,
+.box4,
+.box5, {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 0px;
+    margin: auto;
 }
